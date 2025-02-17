@@ -28,5 +28,6 @@ Bu proje, modern web teknolojileri kullanılarak geliştirilen bir iş ekleme ve
 - İşleri Filtreleme: Kullanıcılar, belirli kriterlere göre iş ilanlarını filtreleyerek ilgili iş fırsatlarını bulabilir.
 - Bildirimler: Kullanıcılara, iş ekleme gibi belirli eylemler sonucunda gerçek zamanlı bildirimler sağlanır.
 - Bu proje, modern web geliştirme uygulamalarını pratik bir şekilde hayata geçirir ve dinamik, durum yönetimli ve kullanıcı dostu bir web uygulaması geliştirmede önemli kütüphane ve araçların kullanımını göstermektedir.
+- 
 
 ![](https://github.com/Rasime-Dumlupunar/Toolkit-job/blob/main/is%CC%A7%20takip.gif)
